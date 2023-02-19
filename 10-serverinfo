@@ -36,4 +36,6 @@ cat << EOF
           Local Address:       $LOCALIP
           Public IPv4 Address: $REMOTEIP
           Public IPv6 Address: $REMOTEIPV6
+
+
 EOF
